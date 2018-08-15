@@ -1,0 +1,24 @@
+.light {
+  width: 100px;
+  height: 100px;
+  background: lightgray;
+  border-radius: 50%;
+  margin-bottom: 3px;
+  opacity: 0.5;
+}
+
+#red {
+  background: red;
+}
+
+#yellow {
+  background: yellow;
+}
+
+#green {
+  background: green;
+}
+
+.active {
+  opacity: 1;
+}
